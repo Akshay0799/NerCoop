@@ -1,1 +1,1 @@
-### Detect Astronomical Named Entities using Transformers
+### Detection Astronomical Named Entities using Transformers
