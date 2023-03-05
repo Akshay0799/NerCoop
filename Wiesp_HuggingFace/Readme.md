@@ -5,6 +5,7 @@ This repo consists of the NER Pipeline that trains a HuggingFace Transformer to 
 #### Technologies Used
 * PyTorch
 * HuggingFace
+* Trainer
 * Python
 
 
